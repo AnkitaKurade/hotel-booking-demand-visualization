@@ -22,7 +22,7 @@ The project demonstrates how raw data can be acquired, parsed, filtered, explore
 
 **Dataset Name:** Hotel Booking Demand
 
-**Dataset Source:** [Kaggle – Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+**Dataset Source:** [Kaggle – Hotel Booking Demand](https://www.kaggle.com/code/mohammadsabeti/hotel-booking-dataset-analysis)
 
 **Original Dataset Details:**
 - Total Records: 119,390
@@ -155,10 +155,6 @@ hotel-booking-demand-visualization/
 │   └── README.md
 │
 └── images/
-    ├── booking-trends.png
-    ├── booking-cancellation.png
-    ├── country-bookings.png
-    └── average-daily-rate.png
 ```
 
 ## ⚙️ Installation and Execution
