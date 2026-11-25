@@ -154,7 +154,11 @@ hotel-booking-demand-visualization/
 ├── data/
 │   └── README.md
 │
-└── images/
+└── images/   
+    ├── booking-trends.png
+    ├── booking-cancellation.png
+    ├── country-bookings.png
+    └── average-daily-rate.png
 ```
 
 ## ⚙️ Installation and Execution
