@@ -208,9 +208,9 @@ Through this project, I gained practical experience in:
 - Refining charts for better communication.
 - Building interactive visualizations using Plotly.
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
-**Ankita Kurade**
+**Ankita Kurade**  
 **Joylin Nadar**
 
 ⭐ If you find this project useful, feel free to explore the notebook and share your feedback.
